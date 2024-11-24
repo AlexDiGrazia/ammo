@@ -2,9 +2,9 @@ As of time of this writing, Saturday November 23rd, 2024, we live in a world whe
 
 This leads to a break down in communication, where out of laziness, a majority of average voters attribute dissenting votes from their neighbors as purely attributeable to stupidity, rather than to differences in world views emerging out of different life environments and media consumption.
 
-The intent of this app is to be a place where users can bootleg and archive the media they consume (videos, articles, TikTok, Instagram), and then categorize that media to make a display board that illustrates what their perspective is and the media and evidence that weaves that perspective.
+The intent of this app is to be a place where users can bootleg and archive the media they consume (videos, articles, TikTok, Instagram), and then categorize that media to make a display-board that illustrates what their perspective is and the media and evidence that weaves that perspective.
 
-This intent is in service of two goals:
+This intent is in service of several goals:
 
 1. "Stacking Ammo" such that media is readily available to share in the event that a discussion leads to the need for context. (ie. you bring up an article on immigration you've read as you discuss a government policy with a friend, and you need to reference the article to either cite sources, or to reference in conversation so you can show how that piece of media weaves into your overall view on the political landscape)
 
